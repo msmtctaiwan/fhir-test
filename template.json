@@ -146,7 +146,7 @@
         },
         "sqlAdminPassword": {
             "type": "securestring",
-            "defaultValue": "Test123",
+            "defaultValue": "Test121212543!",
             "metadata": {
                 "description": "The password for the sql admin user if using SQL server."
             }
