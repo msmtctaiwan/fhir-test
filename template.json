@@ -391,7 +391,7 @@
                 "FhirServerSolution": "[parameters('solutionType')]"
             },
             "properties": {
-                "administratorLogin": "fhirAdmin",
+                "administratorLogin": "fhirAdmin@Taiwan",
                 "administratorLoginPassword": "[parameters('sqlAdminPassword')]",
                 "version": "12.0"
             },
